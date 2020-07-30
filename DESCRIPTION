@@ -5,6 +5,8 @@ Version: 0.1.0
 Author: Xuejun Ryan Ji
 Maintainer: Xuejun Ryan Ji <ryanji329@gmail.com>
 Description: First R packages providing functionality for my packages. 
+URL: https://github.com/ryanji/firstone
+BugReports: https://github.com/ryanji/firstone/issues
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
